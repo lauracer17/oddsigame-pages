@@ -1,2 +1,14 @@
 # oddsigame-pages
-HTML page archive and documentation
+
+GitHub Pages 文件记录
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
